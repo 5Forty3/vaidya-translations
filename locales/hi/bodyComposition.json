@@ -1,0 +1,11 @@
+{
+  "_zone_min_animatedvalue": "= zone.min && animatedValue",
+  "body_fat": "Body Fat",
+  "transform_rotate_90": "transform -rotate-90",
+  "absolute_inset_0_flex_items_center_justify_center": "absolute inset-0 flex items-center justify-center",
+  "text_center": "text-center",
+  "text_gray_600_mt_1": "text-gray-600 mt-1",
+  "font_medium_capitalize": "font-medium capitalize",
+  "absolute_bottom_6_left_1_2_transform_translate_x_1": "absolute -bottom-6 left-1/2 transform -translate-x-1/2",
+  "text_xs_text_green_600_text_center": "text-xs text-green-600 text-center"
+}
