@@ -6,17 +6,7 @@
   "male": "पुरुष",
   "female": "महिला",
   "your_measurements": "आपके माप",
-  "height_cm": "ऊंचाई (सेमी)",
-  "weight_kg": "वजन (किलो)",
-  "age_years": "आयु (वर्ष)",
   "height": "ऊंचाई",
   "weight": "वजन",
-  "ethnicity": "जातीयता",
-  "indian": "भारतीय",
-  "abdomen_circumference": "पेट की परिधि",
-  "hip_circumference": "कूल्हे की परिधि",
-  "neck_circumference": "गर्दन की परिधि",
-  "start_your_health_journey": "अपनी स्वास्थ्य यात्रा शुरू करें",
-  "email": "ईमेल",
-  "password": "पासवर्ड"
+  "age": "आयु"
 }
